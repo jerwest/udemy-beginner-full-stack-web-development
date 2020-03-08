@@ -11,14 +11,9 @@ body {
 }
 */
 
-h1 {
+h1, h2, h3 {
     color: #ffffff;
     text-shadow: 2px 2px 5px black;
-}
-
-h2 {
-    color: rgb(0, 204, 255);
-    text-shadow: 1px 1px 3px darkblue;
 }
 
 .borderImg {
